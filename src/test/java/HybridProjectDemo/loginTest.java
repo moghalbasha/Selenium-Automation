@@ -6,6 +6,12 @@ import org.testng.asserts.SoftAssert;
 import testBasePackage.baseClassSetUp;
 
 public class loginTest extends baseClassSetUp{
+
+	@Test(groups= {"Regression","sanity"})
+	public void DummyTest() {
+		logger.info("Inside Dummy method");
+		};
+
 	
 	@Test(groups= {"Regression","sanity"})
 	public void testlogin() {
