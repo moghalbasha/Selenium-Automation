@@ -9,6 +9,7 @@ public class loginTest extends baseClassSetUp{
 	
 	@Test(groups= {"Regression","sanity"})
 	public void testlogin() {
+		logger.info("Logger intialized");
 		homePage hm=new homePage(driver);
 		logger.info("Clicked on my account link");
 		hm.clickOnMyAccount();
