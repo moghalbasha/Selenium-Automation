@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-20T20:08:51 IST" name="Suite" finished-at="2025-10-20T20:09:06 IST" duration-ms="15202">
+    <groups>
+      <group name="Regression">
+        <method signature="loginTest.testlogin()[pri:0, instance:HybridProjectDemo.loginTest@ee86bcb]" name="testlogin" class="HybridProjectDemo.loginTest"/>
+        <method signature="registrationTest.homepage()[pri:0, instance:HybridProjectDemo.registrationTest@b2c5e07]" name="homepage" class="HybridProjectDemo.registrationTest"/>
+      </group> <!-- Regression -->
+      <group name="sanity">
+        <method signature="loginTest.testlogin()[pri:0, instance:HybridProjectDemo.loginTest@ee86bcb]" name="testlogin" class="HybridProjectDemo.loginTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2025-10-20T20:08:51 IST" name="Test" finished-at="2025-10-20T20:09:06 IST" duration-ms="15202">
+      <class name="HybridProjectDemo.loginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:HybridProjectDemo.loginTest@ee86bcb]" started-at="2025-10-20T20:09:01 IST" name="setup" finished-at="2025-10-20T20:09:03 IST" duration-ms="2607" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testlogin()[pri:0, instance:HybridProjectDemo.loginTest@ee86bcb]" started-at="2025-10-20T20:09:03 IST" name="testlogin" finished-at="2025-10-20T20:09:05 IST" duration-ms="2257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HybridProjectDemo.loginTest@ee86bcb]" started-at="2025-10-20T20:09:05 IST" name="teardown" finished-at="2025-10-20T20:09:06 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- HybridProjectDemo.loginTest -->
+      <class name="HybridProjectDemo.registrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:HybridProjectDemo.registrationTest@b2c5e07]" started-at="2025-10-20T20:08:51 IST" name="setup" finished-at="2025-10-20T20:08:58 IST" duration-ms="6884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homepage()[pri:0, instance:HybridProjectDemo.registrationTest@b2c5e07]" started-at="2025-10-20T20:08:58 IST" name="homepage" finished-at="2025-10-20T20:09:00 IST" duration-ms="2468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:HybridProjectDemo.registrationTest@b2c5e07]" started-at="2025-10-20T20:09:00 IST" name="teardown" finished-at="2025-10-20T20:09:01 IST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- HybridProjectDemo.registrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

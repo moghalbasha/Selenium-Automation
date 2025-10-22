@@ -1,0 +1,67 @@
+2025-10-19 15:41:08.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\MasterTestNG.xml
+
+2025-10-19 15:41:11.378 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-19 15:41:12.851 [main] INFO  testBasePackage.baseClassSetUp - entering data
+2025-10-19 15:41:14.608 [main] INFO  testBasePackage.baseClassSetUp - validating sucess data
+2025-10-19 15:41:14.717 [main] INFO  testBasePackage.baseClassSetUp - account created
+2025-10-19 15:41:14.725 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-19 17:30:54.795 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\MasterTestNG.xml
+
+2025-10-19 17:30:59.774 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-19 17:31:00.759 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my account link
+2025-10-19 17:31:00.959 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my login link
+2025-10-19 17:31:01.280 [main] INFO  testBasePackage.baseClassSetUp - entered email
+2025-10-19 17:31:01.455 [main] INFO  testBasePackage.baseClassSetUp - entered password
+2025-10-19 17:31:01.561 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my signin link
+2025-10-19 17:31:01.685 [main] INFO  testBasePackage.baseClassSetUp - Checking if account exists
+2025-10-19 17:31:06.861 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-19 17:31:43.543 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\MasterTestNG.xml
+
+2025-10-19 17:31:45.813 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-19 17:31:46.776 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my account link
+2025-10-19 17:31:46.915 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my login link
+2025-10-19 17:31:47.207 [main] INFO  testBasePackage.baseClassSetUp - entered email
+2025-10-19 17:31:47.379 [main] INFO  testBasePackage.baseClassSetUp - entered password
+2025-10-19 17:31:47.466 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my signin link
+2025-10-19 17:31:48.307 [main] INFO  testBasePackage.baseClassSetUp - Checking if account exists
+2025-10-19 17:31:48.378 [main] INFO  testBasePackage.baseClassSetUp - Clicked on logout link
+2025-10-19 17:31:48.842 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-19 23:40:13.142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\GroupsTest.xml
+
+2025-10-19 23:42:31.079 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\GroupsTest.xml
+
+2025-10-19 23:42:46.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\GroupsTest.xml
+
+2025-10-19 23:42:52.441 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-19 23:42:53.935 [main] INFO  testBasePackage.baseClassSetUp - entering data
+2025-10-19 23:42:55.706 [main] INFO  testBasePackage.baseClassSetUp - validating sucess data
+2025-10-19 23:42:55.801 [main] INFO  testBasePackage.baseClassSetUp - account created
+2025-10-19 23:42:55.810 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-19 23:42:57.967 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-19 23:42:58.821 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my account link
+2025-10-19 23:42:59.117 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my login link
+2025-10-19 23:42:59.445 [main] INFO  testBasePackage.baseClassSetUp - entered email
+2025-10-19 23:42:59.641 [main] INFO  testBasePackage.baseClassSetUp - entered password
+2025-10-19 23:42:59.736 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my signin link
+2025-10-19 23:42:59.862 [main] INFO  testBasePackage.baseClassSetUp - Checking if account exists
+2025-10-19 23:43:00.646 [main] INFO  testBasePackage.baseClassSetUp - Clicked on logout link
+2025-10-19 23:43:01.172 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-19 23:43:29.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\GroupsTest.xml
+
+2025-10-19 23:47:41.506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\GroupsTest.xml
+
+2025-10-19 23:53:45.596 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mogha\eclipse-workspace\HybridProjectDemo\GroupsTest.xml
+
+2025-10-19 23:53:48.317 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-19 23:53:49.247 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my account link
+2025-10-19 23:53:49.526 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my login link
+2025-10-19 23:53:49.813 [main] INFO  testBasePackage.baseClassSetUp - entered email

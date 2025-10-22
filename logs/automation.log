@@ -1,0 +1,24 @@
+2025-10-21 01:21:36.040 [main] INFO  testBasePackage.baseClassSetUp - entered email
+2025-10-21 01:21:36.157 [main] INFO  testBasePackage.baseClassSetUp - entered password
+2025-10-21 01:21:36.250 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my signin link
+2025-10-21 01:21:36.579 [main] INFO  testBasePackage.baseClassSetUp - Checking if account exists
+2025-10-21 01:21:41.870 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-21 01:21:43.848 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-21 01:21:44.625 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my account link
+2025-10-21 01:21:45.121 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my login link
+2025-10-21 01:21:45.407 [main] INFO  testBasePackage.baseClassSetUp - entered email
+2025-10-21 01:21:45.420 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-21 01:24:42.672 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-21 01:24:44.168 [main] INFO  testBasePackage.baseClassSetUp - entering data
+2025-10-21 01:24:45.871 [main] INFO  testBasePackage.baseClassSetUp - validating sucess data
+2025-10-21 01:24:45.944 [main] INFO  testBasePackage.baseClassSetUp - account created
+2025-10-21 01:24:45.951 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***
+2025-10-21 01:24:48.044 [main] INFO  testBasePackage.baseClassSetUp - ***opening site***
+2025-10-21 01:24:48.855 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my account link
+2025-10-21 01:24:49.094 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my login link
+2025-10-21 01:24:49.570 [main] INFO  testBasePackage.baseClassSetUp - entered email
+2025-10-21 01:24:49.693 [main] INFO  testBasePackage.baseClassSetUp - entered password
+2025-10-21 01:24:49.788 [main] INFO  testBasePackage.baseClassSetUp - Clicked on my signin link
+2025-10-21 01:24:50.024 [main] INFO  testBasePackage.baseClassSetUp - Checking if account exists
+2025-10-21 01:24:50.908 [main] INFO  testBasePackage.baseClassSetUp - Clicked on logout link
+2025-10-21 01:24:51.481 [main] INFO  testBasePackage.baseClassSetUp - ***quit site***

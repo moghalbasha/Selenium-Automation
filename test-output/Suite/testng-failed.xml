@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="Browser" value="CHROME"/>
+  <listeners>
+    <listener class-name="utilities.RetrtTransformer"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="HybridProjectDemo.registrationTest">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="homepage"/>
+        </methods>
+      </class> <!-- HybridProjectDemo.registrationTest -->
+      <class name="HybridProjectDemo.loginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="testlogin"/>
+        </methods>
+      </class> <!-- HybridProjectDemo.loginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
