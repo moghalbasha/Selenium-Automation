@@ -8,7 +8,7 @@ import com.sun.net.httpserver.Authenticator.Retry;
 import testBasePackage.baseClassSetUp;
 
 public class registrationTest extends baseClassSetUp {
-
+	//groups parameter in test annotation will segregate which test to be included
 	@Test(groups= {"Regression"}, retryAnalyzer=utilities.Retry.class)
 	public void homepage() {
 		homePage hm = new homePage(driver);
