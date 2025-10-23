@@ -6,7 +6,7 @@ import org.testng.asserts.SoftAssert;
 import testBasePackage.baseClassSetUp;
 
 public class loginTest extends baseClassSetUp{
-	//Test annotation with groups parameters 
+	//Test annotation with groups parameters regression & sanity
 	@Test(groups= {"Regression","sanity"})
 	public void testlogin() {
 		logger.info("Logger intialized");
